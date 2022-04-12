@@ -1,1 +1,2 @@
 # khazana
+typing from github
